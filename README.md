@@ -6,6 +6,6 @@ This repository contains a simple implementation of the classic game "Rock, Pape
 ## How to Play
 1. Clone the repository to your local machine.
 2. Navigate to the project directory in your terminal.
-3. Run the `rps_game.py` script using a Python interpreter.
+3. Run the `rockpaperscissors.py` script using a Python interpreter.
    ```bash
-   python rps_game.py
+   rockpaperscissors.py
