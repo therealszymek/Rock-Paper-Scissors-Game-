@@ -8,4 +8,4 @@ This repository contains a simple implementation of the classic game "Rock, Pape
 2. Navigate to the project directory in your terminal.
 3. Run the `rockpaperscissors.py` script using a Python interpreter.
    ```bash
-   rockpaperscissors.py
+   python rockpaperscissors.py
