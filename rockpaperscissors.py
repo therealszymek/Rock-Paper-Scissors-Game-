@@ -5,9 +5,15 @@ typeArray = ["ROCK", "PAPER", "SCISSORS"]
 totalPlayerPoints = 0
 totalComputerPoints = 0
 
+
+
+
 def generateValue():
     generatedValue = randrange(3)
     return generatedValue
+
+
+
 
 def generateComputerTalkOne():
     print("ROCK!")
@@ -18,6 +24,10 @@ def generateComputerTalkOne():
     time.sleep(0.5)
     print("SHOOT! \n")
     print("           . . .           ")
+
+
+
+
 def playOneGame():
 
     global totalPlayerPoints
@@ -57,6 +67,7 @@ def playOneGame():
 
 
 
+
 def playAGame():
     global totalPlayerPoints
     global totalComputerPoints
@@ -78,6 +89,9 @@ def playAGame():
         print("You lose!")
     else:
         print("It's a draw!")
+
+
+
 
 
 playAGame()
